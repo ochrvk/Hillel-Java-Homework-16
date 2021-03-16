@@ -1,3 +1,5 @@
+package chrvk.javaelementary.hw16.task1;
+
 import java.util.List;
 
 public class Group {
@@ -6,8 +8,7 @@ public class Group {
 
     @Override
     public String toString() {
-        return "Group{" +
-                "name='" + name + '\'' +
+        return "name='" + name + '\'' +
                 ", persons=" + persons +
                 '}';
     }
