@@ -1,5 +1,5 @@
 /.idea
 /src/test/java
 /target
-/HomeWork16.iml
+*.iml
 /pom.xml

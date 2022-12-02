@@ -1,13 +1,3 @@
-/*
- Используя библиотеку Jackson сериализовать полученные обьекты в формате XML и записать в другой файл. Информация и необходимые библиотеки:
-https://www.baeldung.com/jackson-xml-serialization-and-deserialization
- <dependency>
-    <groupId>com.fasterxml.jackson.dataformat</groupId>
-    <artifactId>jackson-dataformat-xml</artifactId>
-    <version>2.9.8</version>
-</dependency>
- */
-
 package chrvk.javaelementary.hw16.task2;
 
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
